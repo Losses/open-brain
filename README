@@ -1,0 +1,7 @@
+This repository contains an open-source Magnetic Resonance Imaging (MRI) dataset, licensed under either CC Public Domain or MIT, that you can freely use and create derivative works from, without seeking authorization from me.
+
+* The `raw` directory includes T1-weighted imaging data
+* While the `processed` directory contains extracted tissue images
+* Additionally, the `surface` directory includes 3D models of various types of tissue
+
+These datasets were processed using BrainSuite.
